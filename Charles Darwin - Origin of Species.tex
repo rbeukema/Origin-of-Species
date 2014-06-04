@@ -1,0 +1,42 @@
+\documentclass[twocolumn, oneside,12pt]{book}
+\usepackage{enumerate}
+\usepackage{Include/lettrine}
+\usepackage{graphicx}
+\usepackage{type1cm}
+ \usepackage{minitoc}
+ 
+ \usepackage{xcolor}
+\usepackage{pgf,pgffor}% http://ctan.org/pkg/{pgf,pgffor}
+ \definecolor{LinkBlue}{rgb}{0,0,0.4}
+  \usepackage[hidelinks,colorlinks = true, linkcolor = LinkBlue, urlcolor  = LinkBlue, citecolor = LinkBlue, anchorcolor = LinkBlue]{hyperref}
+ 
+\renewcommand{\thefootnote}{\alph{footnote}}
+\renewcommand{\chaptername}{Chapter}
+\renewcommand{\partname}{Part}
+
+\begin{document}
+
+\title{Origin of Species}
+\author{Charles Darwin M.A.}
+\maketitle
+\onecolumn
+\frontmatter
+\dominitoc
+\tableofcontents
+\twocolumn
+\input{Chapters/Introduction.tex}
+\mainmatter
+
+
+
+\input{Chapters/One.tex}
+\input{Chapters/Two.tex}
+\input{Chapters/Three.tex}
+\input{Chapters/Four.tex}
+\input{Chapters/Five.tex}
+\input{Chapters/Six.tex}
+%\input{Chapters/Seven.tex}
+%\input{Chapters/Eight.tex}
+%\input{Chapters/Nine.tex}
+
+\end{document}

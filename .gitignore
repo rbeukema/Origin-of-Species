@@ -1,0 +1,6 @@
+*.mtc*
+*.aux
+*.log
+*.maf
+*.out
+*.synctex*
