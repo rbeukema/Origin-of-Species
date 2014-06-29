@@ -1,13 +1,24 @@
-\contentsline {chapter}{Introduction}{ii}{chapter*.2}
 \contentsline {chapter}{\numberline {1}Variation Under Domestication}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Causes of Variability}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Effects Of Habit And Of The Use Or Disuse Of Parts; Correlated Variation; Inheritance}{4}{section.1.2}
-\contentsline {section}{\numberline {1.3}Character Of Domestic Varieties; Difficulty Of Distinguishing Between Varieties And Species; Origin Of Domestic Varieties From One Or More Species}{7}{section.1.3}
-\contentsline {chapter}{\numberline {2}Variation Under Nature}{11}{chapter.2}
-\contentsline {chapter}{\numberline {3}Struggle for Existence}{21}{chapter.3}
-\contentsline {chapter}{\numberline {4}Natural Selection}{32}{chapter.4}
-\contentsline {chapter}{\numberline {5}Laws of Variation}{61}{chapter.5}
-\contentsline {section}{\numberline {5.1}Effects of Use and Disuse}{63}{section.5.1}
-\contentsline {section}{\numberline {5.2}Acclimatisation}{66}{section.5.2}
-\contentsline {section}{\numberline {5.3}Correlation of Growth}{68}{section.5.3}
-\contentsline {chapter}{\numberline {6}Difficulties on Theory}{84}{chapter.6}
+\contentsline {section}{\numberline {1.1}On the Breeds of the Domestic pigeon.}{9}{section.1.1}
+\contentsline {section}{\numberline {1.2}Selection}{14}{section.1.2}
+\contentsline {chapter}{\numberline {2}Variation Under Nature}{23}{chapter.2}
+\contentsline {chapter}{\numberline {3}Struggle for Existence}{33}{chapter.3}
+\contentsline {chapter}{\numberline {4}Variation Under Nature}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}Sexual Selection}{49}{section.4.1}
+\contentsline {section}{\numberline {4.2}Illustrations of the action of Natural Selection}{51}{section.4.2}
+\contentsline {section}{\numberline {4.3}On the Intercrossing of Individuals}{54}{section.4.3}
+\contentsline {section}{\numberline {4.4}Circumstances favourable to Natural Selection}{58}{section.4.4}
+\contentsline {section}{\numberline {4.5}Extinction}{62}{section.4.5}
+\contentsline {section}{\numberline {4.6}Divergence of Character}{63}{section.4.6}
+\contentsline {section}{\numberline {4.7}Summary of Chapter}{72}{section.4.7}
+\contentsline {chapter}{\numberline {5}Laws of Variation}{75}{chapter.5}
+\contentsline {section}{\numberline {5.1}Effects of Use and Disuse}{77}{section.5.1}
+\contentsline {section}{\numberline {5.2}Acclimatisation}{80}{section.5.2}
+\contentsline {section}{\numberline {5.3}Correlation of Growth}{82}{section.5.3}
+\contentsline {section}{\numberline {5.4}A part developed in any species in an extraordinary degree or manner, in comparison with the same part in allied species, tends to be highly variable.}{86}{section.5.4}
+\contentsline {section}{\numberline {5.5}Distinct species present analogous variations; and a variety of one species often assumes some of the characters of an allied species, or reverts to some of the characters of an early progenitor.}{91}{section.5.5}
+\contentsline {section}{\numberline {5.6}Summary}{96}{section.5.6}
+\contentsline {chapter}{\numberline {6}Variation Under Domestication}{99}{chapter.6}
+\contentsline {chapter}{\numberline {7}Instinct}{120}{chapter.7}
+\contentsline {chapter}{\numberline {8}Hybridism}{142}{chapter.8}
+\contentsline {chapter}{\numberline {9}On the Imperfection of the Geological Record}{162}{chapter.9}
